@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Courswork_1</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_guess_country">GuessCountryActivity</string>
+    <string name="title_activity_sample">sample</string>
+    <string name="title_activity_guess_hints">GuessHints</string>
+    <string name="title_activity_guess_the_flag_button">GuessTheFlagButton</string>
+    <string name="title_activity_advance_level">AdvanceLevel</string>
+</resources>
